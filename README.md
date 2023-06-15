@@ -37,3 +37,12 @@ Pré-requisitos ⚠️ Android 6.0+ SDK 24+; Testes em: Redmi note 8t.
 Como rodar a aplicação Ao abrir o aplicativo, uma splashscreen com a logo do jogo carregará, após isso fazer o seu maior score.
 
 Linguagens, dependencias e libs utilizadas 📚 Unity Visual Studio Bolt
+
+![image](https://github.com/JuliaFRibeiro/Astro_Blast/assets/83432455/63543e25-ef61-4dfe-ae63-b268314272c3)
+
+![image](https://github.com/JuliaFRibeiro/Astro_Blast/assets/83432455/88076b82-b12c-4b4e-9228-4b1a53eacfa5)
+
+![image](https://github.com/JuliaFRibeiro/Astro_Blast/assets/83432455/350958c9-719f-406d-821a-f56e3e825474)
+
+![image](https://github.com/JuliaFRibeiro/Astro_Blast/assets/83432455/aa41144a-560d-413a-aee9-49a5b0639c19)
+
